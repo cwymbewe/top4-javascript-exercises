@@ -21,7 +21,7 @@
     "jest-cli": "^29.6.4"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "eslintConfig": {
     "root": true
