@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1697479175405" clover="3.2.0">
-  <project timestamp="1697479175405" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="leapYears.js" path="/home/cwymbewe/Documents/Microverse/FreeCodeCamp/The Odin Project/top4-javascript-exercises/06_leapYears/leapYears.js">
-      <metrics statements="3" coveredstatements="3" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+<coverage generated="1697483863818" clover="3.2.0">
+  <project timestamp="1697483863819" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="7" coveredelements="7" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="tempConversion.js" path="/home/cwymbewe/Documents/Microverse/FreeCodeCamp/The Odin Project/top4-javascript-exercises/07_tempConversion/tempConversion.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="6" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="3" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
