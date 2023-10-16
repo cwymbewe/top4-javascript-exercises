@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1697320103658" clover="3.2.0">
-  <project timestamp="1697320103658" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="reverseString.js" path="/home/cwymbewe/Documents/Microverse/FreeCodeCamp/The Odin Project/top4-javascript-exercises/03_reverseString/reverseString.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+<coverage generated="1697479175405" clover="3.2.0">
+  <project timestamp="1697479175405" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="leapYears.js" path="/home/cwymbewe/Documents/Microverse/FreeCodeCamp/The Odin Project/top4-javascript-exercises/06_leapYears/leapYears.js">
+      <metrics statements="3" coveredstatements="3" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="4" type="stmt"/>
+      <line num="2" count="6" type="cond" truecount="5" falsecount="0"/>
       <line num="6" count="1" type="stmt"/>
     </file>
   </project>
